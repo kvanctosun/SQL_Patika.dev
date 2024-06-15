@@ -1,4 +1,4 @@
-# SQL_Patika.dev
+# SQL_Patika.dev Odev_1
 Patika Dev SQL Eğitimi Çalışmalar
 **Ödev_1**
 --#film tablosunda bulunan title ve description sütunlarındaki verileri sıralayınız.
